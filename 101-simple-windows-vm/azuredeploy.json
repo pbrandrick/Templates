@@ -177,7 +177,7 @@
             "caching": "ReadWrite",
             "createOption": "FromImage"
           },
-          "dataDisks":[
+          "dataDisks": [
             {
               "name": "datadisk1",
               "diskSizeGB": "[parameters('sizeOfDiskInGB')]",
